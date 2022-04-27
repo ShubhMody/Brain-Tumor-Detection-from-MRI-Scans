@@ -9,5 +9,6 @@ Deep learning has been proven to be superior in detecting diseases from X-rays, 
 
 _________________________________________________________
 
-Link to the dataset from kaggle:
+Link to the dataset from kaggle: - Data source: https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
+
 Link to Weights.hdf5 folder: https://drive.google.com/drive/folders/1KTLlidiIxd2FVgO2x0IncFnCrRELx0AI?usp=sharing
